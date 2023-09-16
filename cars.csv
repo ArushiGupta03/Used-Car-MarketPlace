@@ -1,0 +1,357 @@
+car_id,car_brand,car_model,car_type,trans_type
+1,Acura,ILX,Sedan,Manual
+2,Acura,Integra,Hatchback,Automatic
+3,Acura,MDX,SUV,Manual
+4,Acura,RDX,SUV,Manual
+5,Acura,TLX,Sedan,Manual
+6,Alfa Romeo,Giulia,Sedan,Manual
+7,Alfa Romeo,Stelvio,SUV,Automatic
+8,Alfa Romeo,Tonale,SUV,Automatic
+9,Audi,A3,Sedan,Manual
+10,Audi,A4,Sedan,Manual
+11,Audi,A4 allroad,Wagon,Automatic
+12,Audi,A5,Coupe,Manual
+13,Audi,A6,Sedan,Manual
+14,Audi,A6 allroad,Wagon,Manual
+15,Audi,A7,Sedan,Manual
+16,Audi,A8,Sedan,Automatic
+17,Audi,e-tron,SUV,Manual
+18,Audi,e-tron GT,Sedan,Automatic
+19,Audi,e-tron S,SUV,Manual
+20,Audi,e-tron S Sportback,SUV,Automatic
+21,Audi,e-tron Sportback,SUV,Manual
+22,Audi,Q3,SUV,Manual
+23,Audi,Q5,SUV,Manual
+24,Audi,Q5 Sportback,SUV,Automatic
+25,Audi,Q7,SUV,Automatic
+26,Audi,Q8,SUV,Manual
+27,Audi,R8,Convertible,Automatic
+28,Audi,RS 3,Sedan,Automatic
+29,Audi,RS 5,Coupe,Automatic
+30,Audi,RS 6,Wagon,Manual
+31,Audi,RS 7,Sedan,Automatic
+32,Audi,RS e-tron GT,Sedan,Manual
+33,Audi,RS Q8,SUV,Automatic
+34,Audi,S3,Sedan,Manual
+35,Audi,S4,Sedan,Manual
+36,Audi,S5,Coupe,Automatic
+37,Audi,S6,Sedan,Manual
+38,Audi,S7,Sedan,Automatic
+39,Audi,S8,Sedan,Manual
+40,Audi,SQ5,SUV,Automatic
+41,Audi,SQ5 Sportback,SUV,Manual
+42,Audi,SQ7,SUV,Manual
+43,Audi,SQ8,SUV,Automatic
+44,Audi,TT,Coupe,Manual
+45,BMW,2 Series,Sedan,Manual
+46,BMW,3 Series,Sedan,Automatic
+47,BMW,4 Series,Coupe,Automatic
+48,BMW,5 Series,Sedan,Automatic
+49,BMW,7 Series,Sedan,Automatic
+50,BMW,8 Series,Sedan,Automatic
+51,BMW,i4,Coupe,Automatic
+52,BMW,i7,Sedan,Manual
+53,BMW,iX,SUV,Automatic
+54,BMW,M3,Sedan,Manual
+55,BMW,M4,Coupe,Manual
+56,BMW,M5,Sedan,Automatic
+57,BMW,M8,Hatchback,Manual
+58,BMW,X1,SUV,Automatic
+59,BMW,X2,SUV,Manual
+60,BMW,X3,SUV,Manual
+61,BMW,X3 M,SUV,Automatic
+62,BMW,X4,SUV,Automatic
+63,BMW,X5,SUV,Automatic
+64,BMW,X5 M,SUV,Manual
+65,BMW,X6,SUV,Automatic
+66,BMW,X7,SUV,Manual
+67,Buick,Enclave,SUV,Automatic
+68,Buick,Encore,SUV,Automatic
+69,Buick,Encore GX,SUV,Automatic
+70,Buick,Envision,SUV,Automatic
+71,Cadillac,CT4,Sedan,Automatic
+72,Cadillac,CT5,Sedan,Manual
+73,Cadillac,Escalade,SUV,Automatic
+74,Cadillac,Escalade ESV,SUV,Manual
+75,Cadillac,LYRIQ,SUV,Automatic
+76,Cadillac,XT4,SUV,Automatic
+77,Cadillac,XT5,SUV,Manual
+78,Cadillac,XT6,SUV,Manual
+79,Chevrolet,Blazer,SUV,Manual
+80,Chevrolet,Bolt EUV,Hatchback,Automatic
+81,Chevrolet,Bolt EV,Hatchback,Manual
+82,Chevrolet,Camaro,Coupe,Manual
+83,Chevrolet,Colorado Crew Cab,Pickup,Manual
+84,Chevrolet,Corvette,Coupe,Manual
+85,Chevrolet,Equinox,SUV,Manual
+86,Chevrolet,Express 2500 Cargo,Van/Minivan,Automatic
+87,Chevrolet,Express 3500 Cargo,Van/Minivan,Automatic
+88,Chevrolet,Malibu,Sedan,Manual
+89,Chevrolet,Silverado 1500 Crew Cab,Pickup,Automatic
+90,Chevrolet,Silverado 1500 Regular Cab,Pickup,Manual
+91,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,Automatic
+92,Chevrolet,Silverado 2500 HD Double Cab,Pickup,Automatic
+93,Chevrolet,Silverado 2500 HD Regular Cab,Pickup,Automatic
+94,Chevrolet,Silverado 3500 HD Regular Cab,Pickup,Automatic
+95,Chevrolet,Spark,Hatchback,Manual
+96,Chevrolet,Suburban,SUV,Manual
+97,Chevrolet,Tahoe,SUV,Automatic
+98,Chevrolet,Trailblazer,SUV,Manual
+99,Chevrolet,Traverse,SUV,Manual
+100,Chevrolet,Trax,SUV,Manual
+101,Chrysler,300,Sedan,Manual
+102,Chrysler,Pacifica,Van/Minivan,Manual
+103,Chrysler,Pacifica Hybrid,Van/Minivan,Automatic
+104,Dodge,Challenger,Coupe,Manual
+105,Dodge,Charger,Sedan,Manual
+106,Dodge,Durango,SUV,Automatic
+107,Dodge,Hornet,SUV,Automatic
+108,Ford,Bronco,SUV,Automatic
+109,Ford,Bronco Sport,SUV,Manual
+110,Ford,Edge,SUV,Automatic
+111,Ford,Escape,SUV,Automatic
+112,Ford,E-Transit 350 Cargo Van,Van/Minivan,Manual
+113,Ford,Expedition,SUV,Automatic
+114,Ford,Expedition MAX,SUV,Manual
+115,Ford,Explorer,SUV,Manual
+116,Ford,F150 Lightning,Pickup,Automatic
+117,Ford,F150 SuperCrew Cab,Pickup,Manual
+118,Ford,Maverick,Pickup,Manual
+119,Ford,Mustang,Coupe,Automatic
+120,Ford,Mustang MACH-E,SUV,Manual
+121,Ford,Ranger SuperCab,Pickup,Manual
+122,Ford,Ranger SuperCrew,Pickup,Automatic
+123,Ford,Transit Connect Cargo Van,Van/Minivan,Automatic
+124,Ford,Transit Connect Passenger Wagon,Van/Minivan,Automatic
+125,Genesis,Electrified G80,Sedan,Automatic
+126,Genesis,G70,Sedan,Automatic
+127,Genesis,G80,Sedan,Manual
+128,Genesis,G90,Sedan,Automatic
+129,Genesis,GV60,SUV,Manual
+130,Genesis,GV70,SUV,Automatic
+131,Genesis,GV80,SUV,Manual
+132,GMC,Acadia,SUV,Automatic
+133,GMC,Canyon Crew Cab,Pickup,Manual
+134,GMC,Hummer EV Pickup,Pickup,Automatic
+135,GMC,Savana 2500 Cargo,Van/Minivan,Automatic
+136,GMC,Savana 2500 Passenger,Van/Minivan,Automatic
+137,GMC,Savana 3500 Cargo,Van/Minivan,Automatic
+138,GMC,Savana 3500 Passenger,Van/Minivan,Automatic
+139,GMC,Sierra 1500 Crew Cab,Pickup,Manual
+140,GMC,Sierra 1500 Double Cab,Pickup,Manual
+141,GMC,Sierra 1500 Regular Cab,Pickup,Automatic
+142,GMC,Sierra 2500 HD Regular Cab,Pickup,Automatic
+143,GMC,Sierra 3500 HD Regular Cab,Pickup,Automatic
+144,GMC,Terrain,SUV,Automatic
+145,GMC,Yukon,SUV,Automatic
+146,GMC,Yukon XL,SUV,Manual
+147,Honda,Accord,Sedan,Manual
+148,Honda,Civic,Sedan,Automatic
+149,Honda,CR-V,SUV,Manual
+150,Honda,HR-V,SUV,Manual
+151,Honda,Insight,Sedan,Automatic
+152,Honda,Odyssey,Van/Minivan,Automatic
+153,Honda,Passport,SUV,Automatic
+154,Honda,Pilot,SUV,Automatic
+155,Honda,Ridgeline,Pickup,Automatic
+156,Hyundai,Elantra,Sedan,Manual
+157,Hyundai,Elantra Hybrid,Sedan,Manual
+158,Hyundai,IONIQ 5,SUV,Automatic
+159,Hyundai,Ioniq Hybrid,Hatchback,Manual
+160,Hyundai,Kona,SUV,Automatic
+161,Hyundai,Kona Electric,SUV,Manual
+162,Hyundai,Kona N,SUV,Manual
+163,Hyundai,Palisade,SUV,Automatic
+164,Hyundai,Santa Cruz,Pickup,Automatic
+165,Hyundai,Santa Fe,SUV,Automatic
+166,Hyundai,Santa Fe Plug-in Hybrid,SUV,Automatic
+167,Hyundai,Sonata,Sedan,Manual
+168,Hyundai,Sonata Hybrid,Sedan,Manual
+169,Hyundai,Tucson,SUV,Automatic
+170,Hyundai,Tucson Hybrid,SUV,Manual
+171,Hyundai,Tucson Plug-in Hybrid,SUV,Automatic
+172,Hyundai,Venue,SUV,Automatic
+173,INFINITI,Q50,Sedan,Manual
+174,INFINITI,QX50,SUV,Automatic
+175,INFINITI,QX55,SUV,Manual
+176,INFINITI,QX60,SUV,Manual
+177,Jaguar,E-PACE,SUV,Automatic
+178,Jaguar,F-PACE,SUV,Manual
+179,Jaguar,F-TYPE,Coupe,Automatic
+180,Jaguar,I-PACE,SUV,Manual
+181,Jaguar,XF,Sedan,Manual
+182,Jeep,Compass,SUV,Manual
+183,Jeep,Gladiator,Pickup,Automatic
+184,Jeep,Grand Cherokee,SUV,Automatic
+185,Jeep,Grand Cherokee 4xe,SUV,Manual
+186,Jeep,Grand Cherokee L,SUV,Manual
+187,Jeep,Grand Wagoneer,SUV,Manual
+188,Jeep,Grand Wagoneer L,SUV,Manual
+189,Jeep,Renegade,SUV,Automatic
+190,Jeep,Wagoneer,SUV,Manual
+191,Jeep,Wagoneer L,SUV,Manual
+192,Jeep,Wrangler,SUV,Automatic
+193,Jeep,Wrangler Unlimited,SUV,Manual
+194,Jeep,Wrangler Unlimited 4xe,SUV,Automatic
+195,Kia,Carnival,Van/Minivan,Manual
+196,Kia,EV6,SUV,Manual
+197,Kia,Forte,Sedan,Manual
+198,Kia,K5,Sedan,Manual
+199,Kia,Niro,Wagon,Automatic
+200,Kia,Niro EV,Wagon,Manual
+201,Kia,Niro Plug-in Hybrid,Wagon,Automatic
+202,Kia,Rio,Sedan,Automatic
+203,Kia,Seltos,SUV,Automatic
+204,Kia,Sorento,SUV,Automatic
+205,Kia,Sorento Hybrid,SUV,Automatic
+206,Kia,Sorento Plug-in Hybrid,SUV,Automatic
+207,Kia,Soul,Wagon,Automatic
+208,Kia,Sportage,SUV,Automatic
+209,Kia,Sportage Hybrid,SUV,Manual
+210,Kia,Sportage Plug-in Hybrid,SUV,Automatic
+211,Kia,Stinger,Sedan,Manual
+212,Kia,Telluride,SUV,Manual
+213,Land Rover,Defender 110,SUV,Manual
+214,Land Rover,Defender 130,SUV,Automatic
+215,Land Rover,Defender 90,SUV,Manual
+216,Land Rover,Discovery,SUV,Manual
+217,Land Rover,Discovery Sport,SUV,Manual
+218,Land Rover,Range Rover,SUV,Manual
+219,Land Rover,Range Rover Evoque,SUV,Manual
+220,Land Rover,Range Rover Sport,SUV,Automatic
+221,Land Rover,Range Rover Velar,SUV,Manual
+222,Lexus,ES,Sedan,Manual
+223,Lexus,GX,SUV,Manual
+224,Lexus,IS,Sedan,Manual
+225,Lexus,LS,Sedan,Manual
+226,Lexus,LX,SUV,Manual
+227,Lexus,NX,SUV,Automatic
+228,Lexus,RX,SUV,Automatic
+229,Lexus,RZ,SUV,Automatic
+230,Lexus,TX,SUV,Automatic
+231,Lexus,UX,SUV,Automatic
+232,Lincoln,Aviator,SUV,Manual
+233,Lincoln,Corsair,SUV,Automatic
+234,Lincoln,Nautilus,SUV,Manual
+235,Lincoln,Navigator,SUV,Manual
+236,Lincoln,Navigator L,SUV,Automatic
+237,Maserati,Grecale,SUV,Automatic
+238,MAZDA,CX-30,SUV,Manual
+239,MAZDA,CX-5,SUV,Automatic
+240,MAZDA,CX-50,SUV,Automatic
+241,MAZDA,CX-9,SUV,Automatic
+242,MAZDA,CX-90,SUV,Manual
+243,MAZDA,MAZDA3,Sedan,Manual
+244,Mercedes-Benz,C-Class,Coupe,Manual
+245,Mercedes-Benz,E-Class,Sedan,Manual
+246,Mercedes-Benz,GLA,SUV,Automatic
+247,Mercedes-Benz,GLB,SUV,Manual
+248,Mercedes-Benz,GLC,SUV,Manual
+249,Mercedes-Benz,GLE,SUV,Manual
+250,Mercedes-Benz,GLS,SUV,Manual
+251,Mercedes-Benz,Mercedes-EQ EQB,SUV,Automatic
+252,Mercedes-Benz,Mercedes-EQ EQE,Sedan,Automatic
+253,Mercedes-Benz,Mercedes-EQ EQE SUV,SUV,Manual
+254,Mercedes-Benz,Mercedes-EQ EQS,Sedan,Automatic
+255,Mercedes-Benz,Mercedes-EQ EQS SUV,SUV,Automatic
+256,MINI,Clubman,Hatchback,Automatic
+257,MINI,Convertible,Convertible,Manual
+258,MINI,Countryman,SUV,Automatic
+259,MINI,Hardtop 2 Door,Hatchback,Manual
+260,MINI,Hardtop 4 Door,Hatchback,Manual
+261,Mitsubishi,Eclipse Cross,SUV,Automatic
+262,Mitsubishi,Mirage,Hatchback,Automatic
+263,Mitsubishi,Mirage G4,Sedan,Manual
+264,Mitsubishi,Outlander,SUV,Automatic
+265,Mitsubishi,Outlander PHEV,SUV,Manual
+266,Mitsubishi,Outlander Sport,SUV,Manual
+267,Nissan,Altima,Sedan,Manual
+268,Nissan,Ariya,SUV,Automatic
+269,Nissan,Armada,SUV,Manual
+270,Nissan,Frontier Crew Cab,Pickup,Automatic
+271,Nissan,Frontier King Cab,Pickup,Automatic
+272,Nissan,Kicks,SUV,Manual
+273,Nissan,LEAF,Hatchback,Manual
+274,Nissan,Maxima,Sedan,Automatic
+275,Nissan,Murano,SUV,Manual
+276,Nissan,Pathfinder,SUV,Manual
+277,Nissan,Rogue,SUV,Automatic
+278,Nissan,Rogue Sport,SUV,Automatic
+279,Nissan,Sentra,Sedan,Automatic
+280,Nissan,Titan Crew Cab,Pickup,Manual
+281,Nissan,Titan King Cab,Pickup,Automatic
+282,Nissan,TITAN XD Crew Cab,Pickup,Manual
+283,Nissan,Versa,Sedan,Automatic
+284,Nissan,Z,Coupe,Automatic
+285,Polestar,2,Hatchback,Manual
+286,Polestar,3,SUV,Manual
+287,Porsche,718 Spyder,Convertible,Automatic
+288,Porsche,Cayenne,SUV,Manual
+289,Porsche,Macan,SUV,Manual
+290,Ram,1500 Classic Crew Cab,Pickup,Manual
+291,Ram,1500 Classic Quad Cab,Pickup,Manual
+292,Ram,1500 Classic Regular Cab,Pickup,Automatic
+293,Ram,1500 Crew Cab,Pickup,Automatic
+294,Ram,1500 Quad Cab,Pickup,Automatic
+295,Ram,ProMaster Cargo Van,Van/Minivan,Manual
+296,Ram,ProMaster Window Van,Van/Minivan,Automatic
+297,Subaru,Ascent,SUV,Manual
+298,Subaru,BRZ,Coupe,Automatic
+299,Subaru,Crosstrek,SUV,Automatic
+300,Subaru,Forester,SUV,Manual
+301,Subaru,Impreza,Sedan,Manual
+302,Subaru,Legacy,Sedan,Automatic
+303,Subaru,Outback,SUV,Manual
+304,Subaru,Solterra,SUV,Automatic
+305,Subaru,WRX,Sedan,Automatic
+306,Tesla,Cybertruck,Pickup,Automatic
+307,Tesla,Model 3,Sedan,Automatic
+308,Tesla,Model S,Sedan,Manual
+309,Tesla,Model X,SUV,Manual
+310,Tesla,Model Y,SUV,Manual
+311,Toyota,4Runner,SUV,Automatic
+312,Toyota,86,Coupe,Automatic
+313,Toyota,bZ4X,SUV,Automatic
+314,Toyota,Camry,Sedan,Manual
+315,Toyota,Camry Hybrid,Sedan,Manual
+316,Toyota,C-HR,SUV,Manual
+317,Toyota,Corolla,Sedan,Manual
+318,Toyota,Corolla Cross,SUV,Manual
+319,Toyota,Corolla Cross Hybrid,SUV,Automatic
+320,Toyota,Corolla Hatchback,Hatchback,Automatic
+321,Toyota,Corolla Hybrid,Sedan,Automatic
+322,Toyota,Crown,Sedan,Automatic
+323,Toyota,GR Supra,Coupe,Manual
+324,Toyota,GR86,Coupe,Manual
+325,Toyota,Highlander,SUV,Manual
+326,Toyota,Highlander Hybrid,SUV,Automatic
+327,Toyota,Prius,Hatchback,Automatic
+328,Toyota,RAV4,SUV,Manual
+329,Toyota,RAV4 Hybrid,SUV,Automatic
+330,Toyota,RAV4 Prime,SUV,Manual
+331,Toyota,Sequoia,SUV,Automatic
+332,Toyota,Sienna,Van/Minivan,Manual
+333,Toyota,Tacoma Access Cab,Pickup,Manual
+334,Toyota,Tundra CrewMax,Pickup,Automatic
+335,Toyota,Venza,SUV,Manual
+336,VinFast,VF 8,SUV,Automatic
+337,VinFast,VF 9,SUV,Automatic
+338,Volkswagen,Arteon,Sedan,Automatic
+339,Volkswagen,Atlas,SUV,Manual
+340,Volkswagen,Atlas Cross Sport,SUV,Automatic
+341,Volkswagen,Golf GTI,Hatchback,Automatic
+342,Volkswagen,Golf R,Hatchback,Automatic
+343,Volkswagen,ID.4,SUV,Manual
+344,Volkswagen,Jetta,Sedan,Automatic
+345,Volkswagen,Jetta GLI,Sedan,Automatic
+346,Volkswagen,Taos,SUV,Automatic
+347,Volkswagen,Tiguan,SUV,Automatic
+348,Volvo,C40 Recharge,SUV,Automatic
+349,Volvo,S60,Sedan,Automatic
+350,Volvo,S90,Sedan,Manual
+351,Volvo,V60,Wagon,Automatic
+352,Volvo,V90,Wagon,Automatic
+353,Volvo,XC40,SUV,Automatic
+354,Volvo,XC40 Recharge,SUV,Manual
+355,Volvo,XC60,SUV,Automatic
+356,Volvo,XC90,SUV,Manual
